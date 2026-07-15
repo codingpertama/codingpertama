@@ -8,8 +8,3 @@ Hi, I'm Rafa Hafiz Iqbal Sugarda, a passionate web developer who is currently fo
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=codingpertama&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codingpertama&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codingpertama&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
